@@ -1,5 +1,5 @@
 <?php
-namespace yii-china\file-upload;
+namespace mrfeng\yii2upfile;
 /**
  * @see Yii中文网  http://www.yii-china.com
  * @author Xianan Huang <Xianan_huang@163.com>

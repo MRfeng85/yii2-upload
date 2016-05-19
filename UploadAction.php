@@ -1,5 +1,5 @@
 <?php
-namespace yii-china\file-upload;
+namespace mrfeng\yii2upfile;
 /**
  * @see Yii中文网  http://www.yii-china.com
  * @author Xianan Huang <Xianan_huang@163.com>
@@ -11,7 +11,7 @@ use Yii;
 use yii\base\Action;
 use yii\helpers\ArrayHelper;
 // use common\widgets\file_upload\Uploader;
-use yii-china\file-upload\Uploader;
+use mrfeng\yii2upfile\Uploader;
 
 class UploadAction extends Action
 {

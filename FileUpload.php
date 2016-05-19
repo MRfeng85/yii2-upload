@@ -5,14 +5,14 @@
  * 图片上传组件
  * 如何配置请到官网（Yii中文网）查看相关文章
  */
-namespace yii-china\file-upload;
+namespace mrfeng\yii2upfile;
 
 use Yii;
 use yii\widgets\InputWidget;
 use yii\helpers\Html;
 use yii\web\View;
 // use common\widgets\file_upload\assets\FileUploadAsset;
-use yii-china\file-upload\assets\FileUploadAsset;
+use mrfeng\yii2upfile\assets\FileUploadAsset;
 use yii\helpers\ArrayHelper;
 use yii\helpers\Url;
 

@@ -4,7 +4,7 @@
  * @copyright Copyright (c) 2015 Yii中文网
  */
 
-namespace yii-china\file-upload;
+namespace mrfeng\yii2upfile;
 
 use Yii;
 use yii\web\AssetBundle;
