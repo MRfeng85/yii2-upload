@@ -1,6 +1,6 @@
 Yii2 插件整合-图片上传（file-upload）
 
-实例教程：http://www.yii-china.com/post/detail/15.html
+实例教程：稍后附上
 
 安装扩展：
 
